@@ -76,12 +76,11 @@ Combines distributed backend engineering with applied AI to reduce time-to-resol
 
 ---
 
-### Floe FDM — Collaborative Full-Stack Application
+### Floe FDM — Full-Stack Application
 
 `Node.js` `Express.js` `React`
 
-> **Collaborative project** — repository is maintained under a teammate's GitHub account.  
-> **TODO:** Add public repository link once available.
+> https://github.com/Floe-Inc/Floe-FDM
 
 Full-stack application built collaboratively. My contributions spanned backend API development, service integration, deployment configuration, and application workflow implementation.
 
