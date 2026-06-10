@@ -1,10 +1,19 @@
-# Vidhyadhari Bandaru
+<h1>Hi 👋, I'm Vidhyadhari Bandaru</h1>
 
 **Software Engineer — Backend Systems · Distributed Architecture · Full-Stack · Applied AI**
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif"/>
+
+🌱 Currently building **Distributed Systems, Applied AI/ML, and Cloud-Native Applications**
+
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vidhyadharibandaru-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhyadharibandaru)
 [![Email](https://img.shields.io/badge/Email-vidhyadhari060501@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vidhyadhari060501@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Vidhya060501-181717?style=flat&logo=github)](https://github.com/Vidhya060501)
+[![LeetCode](https://img.shields.io/badge/LeetCode-TODO__USERNAME-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/TODO_USERNAME)
+
+<br clear="right"/>
 
 ---
 
