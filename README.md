@@ -103,7 +103,7 @@ Comfortable working across the stack when the problem calls for it — backend-f
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidhya060501&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vidhya060501&show_icons=true&hide_border=true&theme=default" height="155"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhya060501&layout=compact&hide_border=true&theme=default" height="155"/>
 </p>
