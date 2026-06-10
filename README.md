@@ -90,8 +90,6 @@ Full-stack application built collaboratively. My contributions spanned backend A
 
 `C` `Operating Systems` `Concurrency`
 
-> **TODO:** Add public repository link if/when available.
-
 Systems programming project implementing core OS kernel components in C: priority scheduling with priority donation, Multi-Level Feedback Queue (MLFQ) scheduler, semaphore-based synchronization, secure system-call handling with memory validation, and concurrency improvements across the kernel.
 
 ---
