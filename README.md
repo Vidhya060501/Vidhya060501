@@ -2,7 +2,7 @@
 
 **Software Engineer — Backend Systems · Distributed Architecture · Full-Stack · Applied AI**
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212259388-e2cc9871-7cb3-4500-a401-3d5b71e4f103.jpg"/>
 
 🌱 Currently building **Distributed Systems, Applied AI/ML, and Cloud-Native Applications**
 
