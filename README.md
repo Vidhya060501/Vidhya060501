@@ -19,7 +19,7 @@
 
 ## About
 
-Software engineer with 3 years of industry experience at Capgemini building scalable backend services, distributed systems, and cloud-native applications — including Kafka-based async pipelines, Redis-backed distributed throttling, and systems handling 50K+ daily financial transactions at 99.95% uptime.
+Software engineer with 3+ years of industry experience at Capgemini building scalable backend services, distributed systems, and cloud-native applications — including Kafka-based async pipelines, Redis-backed distributed throttling, and systems handling 50K+ daily financial transactions at 99.95% uptime.
 
 Currently pursuing an M.S. in Computer Science at the University at Buffalo (GPA 4.0 / 4.0, graduating December 2026), with a B.Tech from NIT Rourkela (GPA 3.8 / 4.0).
 
