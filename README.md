@@ -11,7 +11,7 @@
 <br/>
 
 - 🔭 Currently pursuing **Master's in Computer Science** at [University at Buffalo, The State University of New York](https://www.buffalo.edu/)
-- 💼 Looking for **Full-time roles in Software Engineering / Backend / Applied AI**
+- 💼 Looking for **Full-time roles in Software Engineering**
 - 🌱 Deepening my understanding of **large-scale system design** and exploring **AI security** — how intelligent systems fail under adversarial conditions, and what it takes to build ones that don't
 - 💬 Ask me about **Distributed Systems, LLMs, RAG, DSA, Machine Learning, Computer Vision, Python, Java, Kafka, Spark, FastAPI, Docker, AWS**
 - 📫 Reach me at **vidhyadhari060501@gmail.com**
