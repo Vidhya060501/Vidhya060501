@@ -8,6 +8,15 @@
   3 yrs @ Capgemini &nbsp;|&nbsp; MS CS · University at Buffalo · GPA 4.0 &nbsp;|&nbsp; Graduating Dec 2026
 </p>
 
+<br/>
+
+- 🔭 Currently pursuing **Master's in Computer Science** at [University at Buffalo, The State University of New York](https://www.buffalo.edu/)
+- 💼 Looking for **Full-time roles in Software Engineering / Backend / Applied AI**
+- 💬 Ask me about **Distributed Systems, LLMs, RAG, Python, Java, Kafka, Spark, FastAPI, Docker, AWS**
+- 📫 Reach me at **vidhyadhari060501@gmail.com**
+
+<br/>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/vidhyadharibandaru">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
