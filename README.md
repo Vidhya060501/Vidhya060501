@@ -1,4 +1,4 @@
-\<h1 align="center">Hi, I'm Vidhyadhari 👋</h1>
+<h1 align="center">Hi, I'm Vidhyadhari 👋</h1>
 
 <p align="center">
   <b>Backend Engineer &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Applied AI</b>
